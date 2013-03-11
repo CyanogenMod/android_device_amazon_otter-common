@@ -1,0 +1,10 @@
+Change-Id: I30b124461b287d40de9dcc128af7504f1b331580
+Code-Review+2: Danny Baumann <dannybaumann@web.de>
+Verified+1: Danny Baumann <dannybaumann@web.de>
+Code-Review+1: Taichi Nishimura <fuzzzzzzzzzzzzzzzzzz@gmail.com>
+Code-Review+1: Thomas Wagner <loosethisskin@gmail.com>
+Submitted-by: Danny Baumann <dannybaumann@web.de>
+Submitted-at: Mon, 11 Mar 2013 01:56:43 -0700
+Reviewed-on: http://review.cyanogenmod.org/33620
+Project: CyanogenMod/android_device_amazon_otter-common
+Branch: refs/heads/cm-10.1
