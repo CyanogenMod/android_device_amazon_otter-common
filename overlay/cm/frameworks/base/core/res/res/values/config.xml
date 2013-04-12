@@ -1,0 +1,4 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Boolean to enable stylus gestures -->
+    <bool name="config_stylusGestures">true</bool>
+</resources>
