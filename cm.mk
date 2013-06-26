@@ -20,3 +20,4 @@ TARGET_SCREEN_HEIGHT := 1024
 
 DEVICE_PACKAGE_OVERLAYS += device/amazon/otter-common/overlay/cm
 
+PRODUCT_VERSION_DEVICE_SPECIFIC := .1
