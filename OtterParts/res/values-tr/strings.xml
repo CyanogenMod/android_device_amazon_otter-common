@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">高级设置</string>
-  <string name="category_touchscreen_title">触摸屏</string>
-  <string name="touch_filter_title">触摸屏过滤等级</string>
+  <string name="app_name">Gelişmiş ayarlar</string>
+  <string name="category_touchscreen_title">Dokunmatik ekran</string>
+  <string name="touch_filter_title">Dokunmatik ekran filtre düzeyi</string>
 </resources>
